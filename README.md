@@ -1,5 +1,6 @@
 ### Hello you! 👋
 Im currently looking for an internship!
+
 12 weeks, oct 12 to jan 4th.
 
 ✨ It WILL be fun! ✨
