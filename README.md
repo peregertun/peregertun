@@ -24,8 +24,7 @@ Assignment was to create a game using Javascript. The design was not included in
 
 User is able to create account and rent a car. Focus on MVC and CRUD. Formvalidation with regex and Javascript. Built using a VirtualMachine and Mamp.
 
-<img height="25" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white
-" /> Twig
+<img height="25" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> Twig
 
 #
 
@@ -33,9 +32,7 @@ User is able to create account and rent a car. Focus on MVC and CRUD. Formvalida
 
 Groupassignment where the mission was to learn Laravel by ourselfs. Focus was on creating a REST-Api and use the browsers localstorage and a database. We used seeds and migrations to create similar structure and data for all during development of the database.
 
-<img height="25" src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" /> <img height="25" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> <img height="25" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white
-" /> <img height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white
-" /> Blade
+<img height="25" src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" /> <img height="25" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> <img height="25" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /> <img height="25" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> Blade
 
 #
 
