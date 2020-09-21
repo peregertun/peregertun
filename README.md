@@ -4,7 +4,7 @@ Nice to see you here. I'm a full stack web developer student at Chas Academy. I'
 
 ## Here is a summary of what I've done:
 
-### Redesign of an government site.
+### [Redesign of an government site.](https://github.com/peregertun/u02-redesign-omega)
 
 A group assignment with focus on UX and UI and agile workmethods with kanban. Main goal was to make it responsive and we were not allowed to use Javascript for the navigation.
 
@@ -20,7 +20,7 @@ Assignment was to create a game using Javascript. The design was not included in
 
 #
 
-### Car Rental App using PHP.
+### [Car Rental App using PHP.](https://github.com/peregertun/car-rental-app)
 
 User is able to create account and rent a car. Focus on MVC and CRUD. Formvalidation with regex and Javascript. Built using a VirtualMachine and Mamp.
 
@@ -28,7 +28,7 @@ User is able to create account and rent a car. Focus on MVC and CRUD. Formvalida
 
 #
 
-### Webshop using Laravel.
+### [Webshop using Laravel.](https://github.com/1dagranholm/the_swedish_fika)
 
 Groupassignment where the mission was to learn Laravel by ourselfs. Focus was on creating a REST-Api and use the browsers localstorage and a database. We used seeds and migrations to create similar structure and data for all during development of the database.
 
@@ -36,7 +36,7 @@ Groupassignment where the mission was to learn Laravel by ourselfs. Focus was on
 
 #
 
-### Movie app using Angular.
+### [Movie app using Angular.](https://github.com/1dagranholm/u07-movie-app)
 
 Frontend app where we made api-requests to an external api. The user can get information on movies and actors.
 
@@ -44,7 +44,7 @@ Frontend app where we made api-requests to an external api. The user can get inf
 
 #
 
-### Weather app using React.
+### [Weather app using React.](https://github.com/peregertun/u09-react-weather-app)
 
 Groupassignment where we made api-requests to an external api. The user can get information about the weather in different locations and save them. The user is also given weather info and forecast for the current location based on the browsers geolocation.
 The focus was on working agile.
@@ -54,7 +54,7 @@ Javascript, Html, CSS
 
 #
 
-### Business idea fullstack.
+### [Business idea fullstack.](https://github.com/SimonNord/NeighbourUP)
 
 A MVP where we created an business idea as a group assignment. Focus was on agile work methods and UX/UI. We made Prototypes in Figma. Personas. Wireframes in sketchboard. Logo design in Photoshop and Illutstrator.
 Rest-api, Node.js och mongoDB, React with AirBnB lint.
