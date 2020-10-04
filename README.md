@@ -1,6 +1,6 @@
 # Hello you! 👋
 
-Nice to see you here. I'm a full stack web developer student at Chas Academy. I'm currently looking for an internship!
+Nice to see you here. I'm a full stack web developer student at Chas Academy.
 
 ## Here is a summary of what I've done:
 
